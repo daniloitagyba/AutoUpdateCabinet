@@ -1,5 +1,5 @@
 <item>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <url>https://github.com/daniloitagyba/AutoUpdateCabinet/raw/refs/heads/main/cabinet.zip</url>
     <changelog>https://raw.githubusercontent.com/daniloitagyba/AutoUpdateCabinet/refs/heads/main/releaseNotes.html</changelog>
     <mandatory>true</mandatory>
