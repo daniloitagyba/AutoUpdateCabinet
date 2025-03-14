@@ -1,6 +1,6 @@
 <item>
     <version>1.0.0</version>
-    <url>c:\AutoUpdateCabinet\cabinet.zip</url>
-    <changelog>c:\AutoUpdateCabinet\releaseNotes.html</changelog>
+    <url>https://github.com/daniloitagyba/AutoUpdateCabinet/blob/main/cabinet.zip</url>
+    <changelog>https://github.com/daniloitagyba/AutoUpdateCabinet/blob/main/update.xml</changelog>
     <mandatory>true</mandatory>
 </item>
