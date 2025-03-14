@@ -1,6 +1,6 @@
 <item>
     <version>1.0.2</version>
     <url>https://github.com/daniloitagyba/AutoUpdateCabinet/raw/refs/heads/main/cabinet.zip</url>
-    <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
+    <changelog>https://raw.githubusercontent.com/daniloitagyba/AutoUpdateCabinet/refs/heads/main/releases.txt</changelog>
     <mandatory>true</mandatory>
 </item>
