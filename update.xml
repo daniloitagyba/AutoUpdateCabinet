@@ -1,5 +1,5 @@
 <item>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <url>https://github.com/daniloitagyba/AutoUpdateCabinet/raw/refs/heads/main/cabinet.zip</url>
     <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
     <mandatory>true</mandatory>
