@@ -1,0 +1,2 @@
+- Versao 1.0.1
+Melhorias de performance e correção de bugs
